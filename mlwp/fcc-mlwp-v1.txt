@@ -20,3 +20,50 @@ Take the data, and figure out the rule of us.
 Ton of examples, a lot of input data, etc
 ML works generating the rules for us
 Looks at what rules can be generated
+100% accuracy does not get the right
+answer all the time
+fewest mistakes possible.
+Try to simulate human behavior
+Rather than giving the program the rules
+an algorithm finds the rules for us.
+Machine learning
+neural networks: 
+- hype
+- a form of ml
+- layered representation of data
+- layers
+Our data is transformed in different layers
+Difficult to explain neural networks
+Multiple layers
+Multiple stage information extraction
+Output layer, until we find every single bit of
+- we don't need a predefined set of layers
+- Modelled after the brain. No
+- Biological inspiration, but not modelled neccesary
+- from our brain. don't know information is 
+- transferred into our brain.
+Information about students
+Midterm 
+1. 70
+2. 60
+Midterm 2
+1. 80
+2. 90
+Final
+1. 77
+2. 84
+- Key thing to create models
+- Unless you are using a very specific type of ML
+- We know how ML works
+- We have some input information, labels
+- Start training to be able 
+- What should be
+- Data what we have, all the inputs and all the labels
+- I hope that makes sense.
+- Incorrect input or output, we will have problems
+- Types of ML
+Which statement below is false?
+a. Neural networks are modeled after the way the human brain works.
+b. Computer programs that play tic-tac-toe or chess against human players are 
+examples of simple artificial intelligence.
+c. Machine learning is a subset of artificial intelligence.
