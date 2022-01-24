@@ -1,0 +1,22 @@
+# artificial intelligence
+AI = The effort to automate intellectual tasks
+1950 
+Can computers think?
+Artificial intelligence was coined during this time
+AI for chess. Predefined rules typed into the computer
+No ML, no DL. You need to tell it beforehand.
+very good AI was a good set of rules.
+Half a million lines of code 
+AI does not mean nothing necessary complex
+Simulate playing a game
+AI of tiktaktoe
+Machine learning, deep learning
+Drawing a circle
+AI considered artificial intelligence
+Machine learning
+Chess, check move somewhere else
+ML: first field figuring out the rules for us.
+Take the data, and figure out the rule of us.
+Ton of examples, a lot of input data, etc
+ML works generating the rules for us
+Looks at what rules can be generated
