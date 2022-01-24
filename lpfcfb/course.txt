@@ -1,0 +1,3 @@
+# 2 versions of python
+#python2 is a legacy version of python
+#python3 is the future of python
